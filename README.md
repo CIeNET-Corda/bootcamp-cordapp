@@ -147,3 +147,6 @@ Once you've finished the CorDapp's code, run it with the following steps:
   command in their respective terminals:
 
     `run vaultQuery contractStateType: java_bootcamp.TokenState`
+
+## Troubleshooting
+[wiki page of corda/bootcamp-cordapp on github](https://github.com/corda/bootcamp-cordapp/wiki/Troubleshooting)
